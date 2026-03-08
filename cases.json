@@ -1,0 +1,50 @@
+[
+  {
+    "id": "caso_1",
+    "title": "Infecciones bacterianas recurrentes en la infancia",
+    "clinical_story": "Niño de 6 años con antecedentes de infecciones respiratorias bacterianas recurrentes desde los 2 años de edad. Ha presentado múltiples episodios de otitis media, sinusitis y dos neumonías bacterianas documentadas. Los estudios muestran disminución de IgG e IgA. Los linfocitos T se encuentran dentro de valores normales. El pediatra sospecha una alteración del sistema inmunológico y decide derivarlo para evaluación inmunológica.",
+    "questions": [
+      "¿Cuál es el problema clínico principal que presenta el paciente?",
+      "¿Qué componente del sistema inmunológico parece estar afectado?",
+      "¿Qué tipo de inmunidad estaría comprometida en este caso?",
+      "¿Qué diagnóstico inmunológico podría explicar este cuadro clínico?",
+      "Explique brevemente el mecanismo inmunológico que justifica las infecciones bacterianas recurrentes."
+    ],
+    "model_answer": "El caso sugiere una inmunodeficiencia humoral. La disminución de IgG e IgA orienta a una alteración en la producción de inmunoglobulinas, vinculada con linfocitos B. Esto compromete la defensa frente a bacterias extracelulares y explica la recurrencia de infecciones respiratorias.",
+    "evaluation_keywords": {
+      "comprension_problema": [
+        "infecciones recurrentes",
+        "infecciones bacterianas",
+        "otitis",
+        "neumonias",
+        "sinusitis"
+      ],
+      "aplicacion_conceptual": [
+        "linfocitos b",
+        "inmunoglobulinas",
+        "anticuerpos",
+        "igg",
+        "iga"
+      ],
+      "razonamiento_inmunologico": [
+        "inmunidad humoral",
+        "defensa contra bacterias",
+        "bacterias extracelulares",
+        "produccion de anticuerpos"
+      ],
+      "hipotesis_diagnostica": [
+        "inmunodeficiencia humoral",
+        "deficiencia de anticuerpos",
+        "hipogammaglobulinemia",
+        "inmunodeficiencia de linfocitos b"
+      ],
+      "fundamentacion": [
+        "disminucion de inmunoglobulinas",
+        "alteracion de linfocitos b",
+        "susceptibilidad a infecciones bacterianas",
+        "menor opsonizacion",
+        "menor neutralizacion"
+      ]
+    }
+  }
+]
