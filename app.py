@@ -98,6 +98,10 @@ def aplicar_estilos():
             color: #4B5563;
             font-size: 13px;
         }
+        div[data-testid="stForm"] label {
+            color: #111111 !important;
+            font-weight: 700 !important;
+        }
         </style>
         """,
         unsafe_allow_html=True
