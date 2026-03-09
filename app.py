@@ -114,7 +114,7 @@ def mostrar_encabezado():
         <div class="evaia-header">
             <h1>EvaIA</h1>
             <p>Plataforma de aprendizaje basado en problemas con inteligencia artificial</p>
-            <p><strong>Universidad Católica de Cuyo</strong> · Secretaría de Investigación · Asignatura Inmunología</p>
+            <p><strong>Universidad Católica de Cuyo</strong> · Observatorio de Inteligencia Artificial · Asignatura Inmunología</p>
         </div>
         """,
         unsafe_allow_html=True
